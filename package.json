@@ -1,0 +1,23 @@
+{
+  "name": "sour-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAC-Philantrop/simple_game_simulation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAC-Philantrop/simple_game_simulation/issues"
+  },
+  "homepage": "https://github.com/DAC-Philantrop/simple_game_simulation#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
