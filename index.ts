@@ -1,4 +1,4 @@
-import { FoolishPlayer } from "./player";
+import { FoolishPlayer } from "./src/player";
 
 const p = new FoolishPlayer();
 
