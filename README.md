@@ -9,3 +9,12 @@ Player gets points for a combination:
 The Player MAY trash one of the visible cards to remove it from the deck.  
   
 The implemented [Player](player.ts) always takes the first combination he sees, otherwise he trashes the topmost Card.  
+
+Clone repo:  
+`git clone https://github.com/DAC-Philantrop/simple_game_simulation.git`  
+
+Install dependencies:  
+`npm i`  
+
+Run foolish player simulation:  
+`npm run foolish`  

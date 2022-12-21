@@ -1,6 +1,6 @@
-import { Player } from "./player";
+import { FoolishPlayer } from "./player";
 
-const p = new Player();
+const p = new FoolishPlayer();
 
 let movenumber = 0;
 let finished = false;

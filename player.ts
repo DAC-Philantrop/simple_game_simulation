@@ -1,6 +1,6 @@
 import { Game, Combination } from "./game"
 
-export class Player {
+export class FoolishPlayer {
     game: Game;
 
     constructor() {
